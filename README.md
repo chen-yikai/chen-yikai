@@ -4,4 +4,4 @@
 - 🌐[eliaschen.dev](https://eliaschen.dev) 
 ### little about myself...
 🐱 A lover of cats\
-💻️ Driven by a passion for coding
+💻️ Driven by a passion for creating something awsome
