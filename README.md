@@ -1,3 +1,3 @@
 ### This is a sub profile of [EliasChen](https://github.com/chenelias/)
 ### little about myself...
-🐱 A lover of Cats, Vim, Linux\
+🐱 A lover of Cats, Vim, Linux
