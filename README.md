@@ -1,8 +1,8 @@
 ### This is a sub profile of [EliasChen](https://github.com/chenelias/)
 ### little about myself...
 🐱 A lover of Cats, Vim, Linux
-### Competitions
-- 第55屆全國技能競賽北區分區賽_行動應用開發職類 **第三名**
-- 第55屆全國技能競賽_行動應用開發職類 **第一名**
-- 第48屆國際技能競賽暨第3屆亞洲技能競賽一階國手選拔_行動應用開發職類 **正取第三名**
-- 第48屆國際技能競賽暨第3屆亞洲技能競賽二階國手選拔_行動應用開發職類 **沒選上QQ**
+### Competition Experiences
+- 55th National Skills Competition (North Region) (Mobile Application Development): **Bronze medal**
+- 55th National Skills Competition – Mobile Application Development: **Gold medal**
+- 48th WorldSkills & 3rd AsiaSkills – Phase 1 Selection (Mobile Application Development): **Qualified, 3rd place**
+- 48th WorldSkills & 3rd AsiaSkills – Phase 2 Selection (Mobile Application Development): **Didn't make it**
