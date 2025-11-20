@@ -1,6 +1,6 @@
 ### This is a sub profile of [EliasChen](https://github.com/chenelias/)
 ### little about myself...
-🐱 A lover of Cats, Cooking, Programming, Software Development
+🐱 A lover of Cats, Cooking, Software Development
 ### Competition Experiences
 - 55th National Skills Competition (Northern Regional Competition) (Mobile Application Development): **Bronze medal**
 - 55th National Skills Competition (Mobile Application Development): **Gold medal**
